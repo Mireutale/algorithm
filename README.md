@@ -2,9 +2,9 @@
 
 # Sort
 1. bubble
-2. Insertion
-3. Selection
-4. Quick
-5. Merge
+2. Merge
+3. Radix
+4. Insertion
+5. Selection
 6. Heap
-7. Radix
+7. Quick
