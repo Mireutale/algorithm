@@ -14,3 +14,7 @@ def insertion_sort(arr : list):
                 #이전 값들과 비교하면서 increasing인 경우 자신보다 작은 값을 만나면 그자리에서 swap을 멈추고, decreasing인 경우 자신보다 큰 값을 만나면 그자리에서 swap을 멈춘다.
                 break
     return arr
+
+arr = [16, 2, 7, -10, 1]
+insertion_sort(arr)
+print(arr)
